@@ -1,0 +1,11 @@
+E:\.Trashes\PROGRAMACION\sesión8\sesión8\bin\Debug\sesión8.exe.config
+E:\.Trashes\PROGRAMACION\sesión8\sesión8\bin\Debug\sesión8.exe
+E:\.Trashes\PROGRAMACION\sesión8\sesión8\bin\Debug\sesión8.pdb
+E:\.Trashes\PROGRAMACION\sesión8\sesión8\bin\Debug\sesión8.xml
+E:\.Trashes\PROGRAMACION\sesión8\sesión8\obj\Debug\sesión8.vbprojResolveAssemblyReference.cache
+E:\.Trashes\PROGRAMACION\sesión8\sesión8\obj\Debug\sesión8.Form1.resources
+E:\.Trashes\PROGRAMACION\sesión8\sesión8\obj\Debug\sesión8.Resources.resources
+E:\.Trashes\PROGRAMACION\sesión8\sesión8\obj\Debug\sesión8.vbproj.GenerateResource.Cache
+E:\.Trashes\PROGRAMACION\sesión8\sesión8\obj\Debug\sesión8.exe
+E:\.Trashes\PROGRAMACION\sesión8\sesión8\obj\Debug\sesión8.xml
+E:\.Trashes\PROGRAMACION\sesión8\sesión8\obj\Debug\sesión8.pdb
